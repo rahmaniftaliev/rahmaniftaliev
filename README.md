@@ -7,7 +7,7 @@
 
 <!-- 3D Card Style -->
 <div align="center">
-  <img src="https://github.com/rahmaniftaliyev01.png" width="120" style="border-radius:50%;" alt="Rahman's Avatar"/>
+  <img src="https://github.com/rahmaniftaliev.png" width="120" style="border-radius:50%;" alt="Rahman's Avatar"/>
   <br>
   <b><i>“Coding is my superpower.” 🦸‍♂️</i></b>
 </div>
