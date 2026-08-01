@@ -2,7 +2,7 @@
 
 # Hi there, I'm Rahman 👋
 
-### Frontend Instructor → transitioning into React + .NET Development
+###Full-Stack Web, Mobile & AI Instructor | React & ASP.NET Core Developer | Exploring Clean Architecture, REST APIs, and Modern Full-Stack Development
 
 [![GitHub followers](https://img.shields.io/github/followers/rahmaniftaliev?label=Follow&style=social)](https://github.com/rahmaniftaliev)
 ![Profile Views](https://komarev.com/ghpvc/?username=rahmaniftaliev&color=blue)
