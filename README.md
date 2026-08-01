@@ -14,7 +14,6 @@
 ### 🚀 About Me
 
 - 🎓 Online **Web & Mobile Programming instructor**, teaching frontend development to aspiring developers
-- 🔭 Following a **12-month roadmap** to become a professional **React + .NET Developer**, targeting the **US remote job market**
 - 💡 Building **B-Line Algorithm** — a consent-based rewards & data platform concept for e-commerce, designed end-to-end with a full production architecture
 - 🌱 Currently deepening my knowledge of **ASP.NET Core**, system design, and DevOps practices
 - 🤖 Exploring how **LLMs** can be integrated into real-world applications
