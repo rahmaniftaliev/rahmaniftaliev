@@ -15,7 +15,7 @@
 
 - 🎓 Online **Web & Mobile Programming instructor**, teaching Full-Stack, Mobile & AI development to aspiring developers
 - 💡 Building **B-Line Algorithm** — a consent-based rewards & data platform concept for e-commerce, designed end-to-end with a full production architecture
-- 🌱 Currently deepening my knowledge of **ASP.NET Core**, system design, and DevOps practices
+- 🌱 Currently deepening my knowledge of **AI LLM**, system design, and DevOps practices
 - 🤖 Exploring how **LLMs** can be integrated into real-world applications
 - 💬 I teach what I learn — explaining a concept is the fastest way to master it
 
