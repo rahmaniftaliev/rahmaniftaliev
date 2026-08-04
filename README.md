@@ -55,19 +55,26 @@ Consent-based rewards & data platform concept for e-commerce — full production
 **[Real-Time Bitcoin Trading Chart](#)**
 React component rendering live candlestick charts, powered by the Binance WebSocket and REST APIs.
 
-> Replace the `#` links above with your actual repository URLs.
 
 ---
 
 ### 🎯 Roadmap
 
-- [x] React & TypeScript fundamentals
-- [x] State management — Redux Toolkit, Zustand
-- [ ] ASP.NET Core & C# backend development
-- [ ] Docker & CI/CD pipelines
-- [ ] Cloud deployment (Azure)
-- [ ] System design fundamentals
-- [ ] Active applications — US remote market
+- [ ] Python for AI & Data Science
+- [ ] Mathematics for AI (Linear Algebra, Calculus, Statistics)
+- [ ] Machine Learning Fundamentals
+- [ ] Deep Learning (PyTorch & TensorFlow)
+- [ ] Large Language Models (LLMs)
+- [ ] Retrieval-Augmented Generation (RAG)
+- [ ] AI Agents & Multi-Agent Systems
+- [ ] Prompt Engineering
+- [ ] Vector Databases (Pinecone, Milvus, ChromaDB)
+- [ ] AI Application Development (LangChain, Semantic Kernel)
+- [ ] Docker, Kubernetes & MLOps
+- [ ] Cloud AI (Azure AI, AWS AI, Google Cloud AI)
+- [ ] Deploying Production-Ready AI Applications
+- [ ] Building AI SaaS Products
+- [ ] Open Source AI Contributions
 
 ---
 
